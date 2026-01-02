@@ -22,3 +22,8 @@ Jetpack Compose에서 Navigation을 연습하기 위한 간단한 실습 프로�
   - 버튼 클릭 시 DetailScreen으로 이동
 - **DetailScreen**
   - 전달받은 name 인자 출력
+
+---
+
+## 공부한 내용  
+https://gamerhw.tistory.com/46
