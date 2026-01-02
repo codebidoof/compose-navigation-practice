@@ -1,6 +1,6 @@
 # Compose Navigation Practice
 
-Jetpack Compose에서 Navigation을 연습하기 위한 간단한 실습 프로젝트.
+Jetpack Compose에서 Navigation을 연습하기 위한 간단한 실습.
 
 ---
 
